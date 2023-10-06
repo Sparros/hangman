@@ -18,7 +18,7 @@ Clone the repository to your local machine using:
 bash
 
 ```python 
-git clone https://github.com/your-username/hangman.git
+git clone https://github.com/sparros/hangman.git
 ```
 
 Navigate to the project directory:
